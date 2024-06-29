@@ -6,7 +6,7 @@ import 'OrderHistory.dart';
 void main() {
   runApp(const MyApp());
 }
-
+//static
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
