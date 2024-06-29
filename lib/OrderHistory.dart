@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class OrderHistory extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    //static
     return Scaffold(
       backgroundColor: Color(0xFFF0F8FF),
       appBar: AppBar(
