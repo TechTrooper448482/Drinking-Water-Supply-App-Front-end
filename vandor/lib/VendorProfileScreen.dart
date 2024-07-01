@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//prof
+/
 class VendorProfileScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
